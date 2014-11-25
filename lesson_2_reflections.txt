@@ -19,6 +19,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 	altough you may have changed a lot more files, the staging area gives you 
 	the opportunity to only commit the changes that are involved in a logical change.
 
+
 What are some situations when branches would be helpful in keeping your history organized? 
 How would branches help?
 	
@@ -26,10 +27,16 @@ How would branches help?
 	completely sure to include at this time. Also, it could be used for collaboration.
 	Branches help us keep the history clean by separating our changes logically.
 	
+
 How do the diagrams help you visualize the branch structure?
 
 	The diagrams helped me realize that, branches are labels we can use for commits.
 	They also helped me undertand how commits are related by a parent relationship, 
 	and it become clear how the log gets created.
 
-	
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	The result of merging, is creating a new node, commit, and moving a branch label to it.
+	Also, in the diagram, we can see that a branch will be the parent for the new commits.
+
