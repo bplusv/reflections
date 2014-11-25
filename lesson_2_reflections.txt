@@ -26,3 +26,10 @@ How would branches help?
 	completely sure to include at this time. Also, it could be used for collaboration.
 	Branches help us keep the history clean by separating our changes logically.
 	
+How do the diagrams help you visualize the branch structure?
+
+	The diagrams helped me realize that, branches are labels we can use for commits.
+	They also helped me undertand how commits are related by a parent relationship, 
+	and it become clear how the log gets created.
+
+	
