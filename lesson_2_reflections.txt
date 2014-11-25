@@ -12,4 +12,17 @@ What value do you think it offers?
 	I think the staging area is a list of the files to be commited, and the 
 	working directory is the actual files on the folder right now.
 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	You can always only include the involved files on the logical change,
+	altough you may have changed a lot more files, the staging area gives you 
+	the opportunity to only commit the changes that are involved in a logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+	
+	Branches could help to try out new things, experimental features, that you aren't
+	completely sure to include at this time. Also, it could be used for collaboration.
+	Branches help us keep the history clean by separating our changes logically.
 	
