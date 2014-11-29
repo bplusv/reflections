@@ -11,3 +11,16 @@ stay up-to-date with your remote repository?
 	and you want your local version more experimental. Or maybe you don't want to pull 
 	commits from other people yet, because they can interfere with your local ones.
 
+
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+
+	A clone is a copy of a repository, including the history of changes.
+	A fork its a clone on the github site from another user, including a reference to the author.
+	And, a branch, its a label for a commit. This label identifies a possible path of changes,
+	starting from the beginning. Branches are useful for orginizing changes and not merging 
+	all of them immediately.
+
+	I would use a fork when I want to add a feature or base my work on someone else's project.
+	A clone to initialize my repository from github into a local machine.
+	And a branch when I want to test a new experimental feature.
