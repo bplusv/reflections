@@ -24,3 +24,11 @@ When would you use one instead of another?
 	I would use a fork when I want to add a feature or base my work on someone else's project.
 	A clone to initialize my repository from github into a local machine.
 	And a branch when I want to test a new experimental feature.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	
+	If we have a copy of the remote last state, git can tell us how far ahead are we, 
+	in terms of commits, from the remote. Also, you can fetch changes and carefully 
+	merge them later, and you can checkout these remote branches if they really ahead 
+	of you, to consider a merge strategy.
