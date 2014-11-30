@@ -32,3 +32,13 @@ What is the benefit of having a copy of the last known state of the remote store
 	in terms of commits, from the remote. Also, you can fetch changes and carefully 
 	merge them later, and you can checkout these remote branches if they really ahead 
 	of you, to consider a merge strategy.
+
+How would you collaborate without using Git or GitHub? 
+What would be easier, and what would be harder?
+
+	If I don't a versin control system, I would copy lot of folders by date & change.
+	I would need to organize a lot with my team in order to prevent modifying the same file.
+	I don't think anything would be easier without Git or Github...
+	A lot of things would be harder, like merging a lot of files! We would need to manually 
+	scan each line, from each file, and decide the merged version. Without the diff utility, 
+	this work would be very difficult, time consuming, and prone to errors.
