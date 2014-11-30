@@ -42,3 +42,14 @@ What would be easier, and what would be harder?
 	A lot of things would be harder, like merging a lot of files! We would need to manually 
 	scan each line, from each file, and decide the merged version. Without the diff utility, 
 	this work would be very difficult, time consuming, and prone to errors.
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+	I would make a branch when developing a new feature, or an experimental update.
+	This way, the master branch could be, for example, more robust and always tested.
+	Also, creating branches allows us to review the code using pull requests, this is 
+	very important in order to maintain a clean master branch.
+	If we only use the master branch, is easier to pull and push changes, nevertheless, 
+	it could be really dificult to maintain a clean & tested master branch version.
+	
